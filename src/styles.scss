@@ -1,4 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("/src/assets/css/font-awesome/css/all.min.css");
+@import url("/src/assets/css/bootstrap.min.css");
+@import url("/src/assets/css/aos.css");
+@import url("/src/assets/css/main.css");
+
 [data-aos] {
     opacity: 1 !important;
     transform: translate(0) scale(1) !important;
